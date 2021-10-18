@@ -942,6 +942,10 @@ settings:
                 fast: Rapide
                 super_fast: Très rapide
                 extremely_fast: Extrêmement rapide
+        shapetooltip-showalways:
+            title: Info-bulle de forme - toujours afficher
+            description: Affiche toujours l’info-bulle de forme lors du survol des
+            bâtiments, au lieu d’avoir à maintenir ’alt’.
         language:
             title: Langue
             description: Change la langue. Les traductions sont une contribution des
